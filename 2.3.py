@@ -4,8 +4,8 @@ if g>1:
         if(g%i)==0:
             print("no")
             break
-        else:
-            print("yes")
+    else:
+        print("yes")
 else:
     print("no")
     
